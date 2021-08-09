@@ -1,0 +1,38 @@
+[1]	沈慶揚, 楊憲明, 陳志福, 羅瑞玉, 莊勝義, 蘇永明, “臺灣光復四十年來教育發展之回顧,” 中華民國比較教育學會比較教育通訊, 13卷, p.6-21, 1986.
+[2]	秦夢群, “大學多元入學制度實施與改革之研究,” 教育政策論壇, 7卷2期, p.59-84, 200４.
+[3]	S.K.Mohamad, Z.Tasir, “Educational data mining: A review,” Procedia Social and Behavioral Sciences, Vol.97, p.320-324, 2013.
+[4]	A.Peña-Ayala, “Educational data mining: A survey and a data miningbased analysis of recent works,” Expert Systems with Applications, Vol.41, No.4, p.1432-1462, 2014.
+[5]	C.Romero, S.Ventura, “Educational data mining: A review of the state of the art,” IEEE Transactions on Systems Man and Cybernetics, Part C(Applications and Reviews), Vol.40, No.6, p.601-618, 2010.
+[6]	H.Aldowah, H.Al-Samarraie, W.M.Fauzy, “Educational data mining and learning analytics for 21st century higher education: A review and synthesis,” Telematics and Informatics, Vol.37, p.13–49, 2019.
+[7]	C.Anuradha and T.Velmurugan, “A comparative analysis on the evaluation of classication algorithms in the prediction of students performance,” Indian Journal of Science and Technology, Vol.8, No.15, p.974-6846,2015.
+[8]	V.L.Miguéis, A.Freitas, P.J.V.Garcia, A.Silva, “Early segmentation of students according to their academic performance: A predictive modelling approach,” Decision Support Systems, p. 36-51, 2018.
+[9]	A.M.Shahiri, W.Husain, N.A.Rashid, “A review on predicting Student's performance using data mining techniques,” Procedia Computer Science, Vol.72, p.414-422, 2015.
+[10]	A.Waibel, T.Hanazawa, G.Hinton, K.Shikano, K.Lang, “Phoneme recognition: neural networks v.s. hidden Markov models,”International Conference on Acoustic, Speech,Signal Processing, p.107-110,1988.
+[11]	M.Mayilvaganan, D.Kalpanadevi, “Comparison of classfication techniques for predicting the performance of students academic environment,” International Conference on Communications, Computation, Networks and Technologies,Sivakasi,India, p.113-118, 2014.
+[12]	P.M.Arsad, N.Buniyamin, J.L.A.Manan, “A neural network students' performance prediction model(NNSPPM),” IEEE International Conference on Smart Instrumentation, Measurement and Applications(ICSIMA), Kuala Lumpur, Malaysia, p.1-5, 2013.
+[13]	F.Marbouti, H.A.D.Dux, K.Madhavan, “Models for early prediction of at-risk students in a course using standards-based grading,” Computers & Education, Vol.103, p.1-15, 2016.
+[14]	G.Gray, C.McGuinness, P.Owende, “An application of classifcation models to predict learner progression in tertiary education,” IEEE International Advance Computing Conference(IACC), p.549-554, 2014.
+[15]	E.N.Maltz, K.E.Murphy, M.L.Hand, “Decision support for university enrollment management:Implementation and experience,” Decision Support Systems, Vol.44, No.1, p.106-123, 2007.
+[16]	A.M.Hanan, “Using DataMining Techniques to Predict Student Performance to Support Decision Making in University Admission Systems,” IEEE Access, Vol.8, p.55462–55470, 2020.
+[17]	https://ithelp.ithome.com.tw/articles/10253192
+[18]	https://cvfiasd.pixnet.net/blog/post/275774124-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%BF%80%E5%8B%B5%E5%87%BD%E6%95%B8%E4%BB%8B%E7%B4%B9
+[19]	T.K.Ho, “Random decision forests,” Proceedings of 3rd International Conference on Document Analysis and Recognition, p.14-16, 1995.
+[20]	T.K.Ho, “The random subspace method for constructing decision forests,” IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.20, Issue 8, p.832-844, 1998.
+[21]	L.Breiman, “Random Forests,” Machine learning, Vol.1, Issue 45, p.5-32, 2001.
+[22]	H.Guruler, A.Istanbullu, M.Karahasan, “A new student performance analysing system using knowledge discovery in higher educational databases,” Computers & Education, Vol.55, No.1, p.247-254, 2010.
+[23]	S.Natek, M.Zwilling, “Student data mining solution–knowledge management system related to higher education institutions,” Expert Systems with Applications, Vol.41, p.6400–6407, 2014.
+[24]	S.Fong, R.Biuk-Aghai, “An automated university admission recommender system for secondary school students,” The 6th International Conference on Information Technology and Applications, 2009.
+[25]	https://towardsdatascience.com/an-introduction-to-decision-trees-with-python-and-scikit-learn-1a5ba6fc204f
+[26]	https://medium.com/chung-yi/ml%E5%85%A5%E9%96%80-%E5%8D%81%E4%B8%83-%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-6afc24871857
+[27]	V.N.Vapnik, “The Nature of Statistical Learning Theory. Springer,” New York. for medical diagnosis-application to congenital heart disease. Journal of the American Medical Association.
+[28]	B.E.Boser, I.M.Guyon, C.Vapnik, “V.N.A training algorithm for optimal margin classifiers.,” Proceedings of the fifth annual workshop on Computational learning theory, COLT.92, p.144, 1992.
+[29]	C.Cortes, V.Vapnik, “Support-vector networks.,” Machine Learning, Vol.20, p.273-297, 1995.
+[30]	http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well
+[31]	 https://www.lexico.com/definition/overfitting
+[32]	A.Ainslie, X.Drèze, F.Zufryden, “Modeling Movie Life Cycles and Market Share,” Marketing Science, Vol.24, Issue 3, p.508-517, 2005.
+[33]	Q.Zhou, Y.Zheng, C.Mou, “Predicting students' performance of an offline course from their online behaviors,” Fifth International Conference on Digital Information and Communication Technology and its Applications (DICTAP), 2015.
+[34]	S.Roy, A.Garg, “Predicting academic performance of student using classification techniques,” 4th IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics, UPCON, p.568–572, 2017.
+[35]	T.Devasia, T.P.Vinushree, V.Hegde, “Prediction of students performance using Educational Data Mining,” International Conference on Data Mining and Advanced Computing (SAPIENCE), p.91–95, 2016.
+[36]	E.Irfiani, I.Elyana, F.Indriyani, F.E.Schaduw, D.D.Harmoko, “Predicting Grade Promotion Using Decision Tree and Naïve Bayes Classification Algorithms,” Third International Conferenceon Informatics and Computing(ICIC), 2018.
+[37]	G.E.Hinton, S.Osindero, Y.W.Teh, “A Fast Learning Algorithm for Deep Bwlief Nets,” Neural Computation, Vol.18, No.7, 2006.
+[38]	N.Srivastava, G.Hinton, A.Krizhevsky, I.Sutskever, R.Salakhutdinov, “Dropout: a simple way to prevent neural networks from overfitting,” The Journal of Machine Learning Research, Vol.15, Issue 1, p.1929-1958, 2014.
