@@ -17,5 +17,8 @@
 >          
 > Let's see the operating process of DNN <br />
 > <img width="600" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-2.png"/>  <br />
-[See more here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf)
+> * This is called forward propagation from the input layer to the hidden layer to the output to the loss function.     
+> * The new weight is calculated by the optimizer to update back, which is called reverse propagation
+
+<[See more here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf)
 
