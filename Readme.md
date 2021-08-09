@@ -3,4 +3,4 @@
 Fetures: GSAT scores (Chinese, English, Math, Society, Science), high school PR, and high school GPA<br>
 Labels: Freshman performance (Total average, Program subjects average, Mathematics subjects average, and Foundation subjects average)<br>
 >Divide scores into grades as follow
->![](https://github.com/SS-rong/MS_Research-/blob/main/IMG/category.png)
+><img src="https://github.com/SS-rong/MS_Research-/blob/main/IMG/category.png" width:500>
