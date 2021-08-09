@@ -5,11 +5,12 @@
 * Method: Using 3 machine learning models (Deep Neural Network, Random Forest and Support Vector Machine) by Python Packages (Tensorflow, Keras, Scikit-learn) to predict students’ performance.  
 
 #### MODELS
-##### * Deep Neural Network (DNN)  
+* Deep Neural Network (DNN)  
 ><img width="400" height="250" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-1.png"/>  
 >* Input layer: To receive incoming messages  
 >* Hidden layer: Located in the middle of the input and output layers, it consists of numerous neurons and connections  
 >* Output layer: The output result of the transmission, analysis, and trade-off of information in a neuron link  
+>  
 > Zoom in the neurons and connections  
 ><img width="400" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-3.png"/>  
 [See more here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf)
