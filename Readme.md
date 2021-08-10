@@ -20,7 +20,7 @@
 > * This is called forward propagation from the input layer passing through the hidden layer and the output layer to the loss function.     
 > * The loss function is used to describe the difference between the predicted value and the real value.
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
-<br />
+     
 * Random Forest (RF)
 > The random forest is composed of multiple cart decision trees, and the final classification result is determined by majority decision.    
 >
