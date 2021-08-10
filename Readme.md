@@ -13,7 +13,7 @@
 >        
 > Zoom in the neurons and connections.       
 > <img width="400" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-3.png"/>  <br />
-> It contains weight, sum, and active function. After the input is weighted, the results are converted to nonlinear through the active function and passed to the next layer.           
+> They contain weight, sum, and active function. After the input is weighted, the results are converted to nonlinear through the active function and passed to the next layer.           
 >          
 > Let's see the operating process of DNN. <br />
 > <img width="600" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-2.png"/>  <br />
