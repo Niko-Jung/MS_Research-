@@ -30,7 +30,7 @@
       
 * Support Vector Machine (SVM)
 > The support vector machine throws the non linearly separable features into the high-dimensional space and finds a hyperplane through the kernel function for segmentation.
-> <img width="400" height="200" src="https://github.com/SS-rong/MS_Research-/blob/main/img/SVM-1.png"/>  <br />
+> <img width="375" height="200" src="https://github.com/SS-rong/MS_Research-/blob/main/img/SVM-1.png"/>  <br />
 
 
 For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf) !
