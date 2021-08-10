@@ -27,6 +27,10 @@
 > Zoom in the decision trees, take an example as flollow.    
 > <img width="550" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/RF-2.png"/>  <br />
 > The CART decision tree selects a feature by using Gini impurity at each node as the segmentation condition, and finally obtains the classification result at the leaf node. 
+      
+* Support Vector Machine (SVM)
+> The support vector machine throws the non linearly separable features into the high-dimensional space and finds a hyperplane through the kernel function for segmentation.
+> <img width="500" height="250" src="https://github.com/SS-rong/MS_Research-/blob/main/img/SVM-1.png"/>  <br />
 
 
 For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf) !
