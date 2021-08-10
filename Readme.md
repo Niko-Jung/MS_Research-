@@ -20,5 +20,5 @@
 > * This is called forward propagation from the input layer passing through the hidden layer and the output layer to the loss function.     
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
 
-For more information about the paper, see [here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/thesis_english.pdf)
+For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/thesis_english.pdf) !
 
