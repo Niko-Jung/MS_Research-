@@ -1,4 +1,4 @@
-# Master Thsis in Computer Science at Tamkang University
+# Master thesis in Computer Science at Tamkang University
 #### SUMMARY
 * Thesis: Using machine learning techniques to find the relationship between university admission score and student performance.       
 * Purpose: To provide an objective insight for our department on admission.       
@@ -17,8 +17,8 @@
 >          
 > Let's see the operating process of DNN. <br />
 > <img width="600" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-2.png"/>  <br />
-> * This is called forward propagation from the input layer to the hidden layer to the output to the loss function.     
+> * This is called forward propagation from the input layer passing through the hidden layer and the output layer to the loss function.     
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
 
-[See more here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf)
+For more information about the paper, see [here!](https://github.com/SS-rong/MS_Research-/blob/main/documents/thesis_english.pdf)
 
