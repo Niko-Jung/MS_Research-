@@ -18,7 +18,10 @@
 > Let's see the operating process of DNN. <br />
 > <img width="600" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-2.png"/>  <br />
 > * This is called forward propagation from the input layer passing through the hidden layer and the output layer to the loss function.     
+> * The loss function is used to describe the difference between the predicted value and the real value.
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
+* Random Forest (RF)
+> 
 
-For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/thesis_english.pdf) !
+For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf) !
 
