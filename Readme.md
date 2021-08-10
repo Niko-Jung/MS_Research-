@@ -4,7 +4,7 @@
 * Purpose: To provide an objective insight for our department on admission.       
 * Method: Using 3 machine learning models (Deep Neural Network, Random Forest and Support Vector Machine) by Python Packages (Tensorflow, Keras, Scikit-learn) to predict students’ performance.      
 
-#### MODELS
+#### MODELS INTRODUCTION
 * Deep Neural Network (DNN)      
 > <img width="400" height="250" src="https://github.com/SS-rong/MS_Research-/blob/main/img/DNN-1.png"/>      <br />
 >* Input layer: To receive incoming messages.      
@@ -21,7 +21,9 @@
 > * The loss function is used to describe the difference between the predicted value and the real value.
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
 * Random Forest (RF)
-> 
+> The random forest is composed of multiple cart decision trees.
+> Zoom in the decision trees, take an example as flollow.    
+> <img width="400" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/RF-2.png"/>  <br />
 
 For more information about the paper, see [here](https://github.com/SS-rong/MS_Research-/blob/main/documents/Thsis_english.pdf) !
 
