@@ -20,10 +20,12 @@
 > * This is called forward propagation from the input layer passing through the hidden layer and the output layer to the loss function.     
 > * The loss function is used to describe the difference between the predicted value and the real value.
 > * The new weight is calculated by the optimizer to update back, which is called reverse propagation.
+<br />
 * Random Forest (RF)
 > The random forest is composed of multiple cart decision trees, and the final classification result is determined by majority decision.    
+>
 > Zoom in the decision trees, take an example as flollow.    
-> <img width="600" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/RF-2.png"/>  <br />
+> <img width="550" height="300" src="https://github.com/SS-rong/MS_Research-/blob/main/img/RF-2.png"/>  <br />
 > The CART decision tree selects a feature by using Gini impurity at each node as the segmentation condition, and finally obtains the classification result at the leaf node. 
 
 
